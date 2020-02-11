@@ -8,7 +8,7 @@ The images are contained in the file 102flowers.tgz and the image labels in imag
 Full Description: http://www.robots.ox.ac.uk/~vgg/data/flowers/102/README.txt
  
  
-![alt text](https://github.com/ushashwat/flower_recognition/blob/master/Flowers.png)
+![alt text](https://github.com/ushashwat/flower_recognition/blob/master/flower_images.png)
 
 
 ### Acknowledgement
